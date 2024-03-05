@@ -1,5 +1,5 @@
 Data storage Format: 
-[[Step time before the target time, Step temperature before the target time, Step time after the target time, Step temperature before the target time, Temperature of the target time through linear interpolation, Insulation thickness of current iteration]  [next iteration]  …  ]
+[[Step time before the target time, Step temperature before the target time, Step time after the target time, Step temperature after the target time, Temperature of the target time through linear interpolation, Insulation thickness of current iteration]  [next iteration]  â€¦  ]
 
 1. Data of tests optimised to 400?C
 Job 3sided305x102x6.8x5.8con0.02 
